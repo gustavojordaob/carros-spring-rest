@@ -1,7 +1,7 @@
 insert into role (id,nome) values (1, 'ROLE_USER');
 insert into role (id,nome) values (2, 'ROLE_ADMIN');
 
-INSERT INTO user(id, email, login, nome, senha) VALUES(1, 'renan@gmail.com', 'renan', 'Renan', '$2a$10$HKveMsPlst41Ie2LQgpijO691lUtZ8cLfcliAO1DD9TtZxEpaEoJe');
+INSERT INTO user(id, email, login, nome, senha) VALUES(1, 'gustavojrodaob@outlook.com', 'gustavo', 'Gustavo Jordao', '$2a$10$HKveMsPlst41Ie2LQgpijO691lUtZ8cLfcliAO1DD9TtZxEpaEoJe');
 INSERT INTO user(id, email, login, nome, senha) VALUES(2, 'admin@gmail.com', 'admin', 'Admin', '$2a$10$HKveMsPlst41Ie2LQgpijO691lUtZ8cLfcliAO1DD9TtZxEpaEoJe');
 INSERT INTO user(id, email, login, nome, senha) VALUES(3, 'user@gmail.com', 'user', 'User', '$2a$10$HKveMsPlst41Ie2LQgpijO691lUtZ8cLfcliAO1DD9TtZxEpaEoJe');
 
